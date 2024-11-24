@@ -5,9 +5,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Email credentials (replace these with your credentials)
-sender_email = "surbhigoswami13062007@gmail.com"
-sender_password = "vtvl decn uxyw omul"
-receiver_email = "yadavapkesha@gmail.com"
+sender_email = "ur email"
+sender_password = "ur gmail password"
+receiver_email = "receiver email"
 
 # Load pre-trained face detection model (Haar Cascade)
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')

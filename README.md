@@ -1,4 +1,4 @@
-Human Intrusion Detection System
+Smart intrusion and Web Alert System
 
 This is a Python-based project that detects human intrusion in a specified area and sends real-time email notifications for security alerts.
 
